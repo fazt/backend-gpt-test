@@ -1,6 +1,6 @@
-# Mi proyecto
+# Backend de Nodejs
 
-Este es mi proyecto de Node.js. Aquí se encuentra una breve descripción del proyecto.
+Este es mi proyecto de Node.js generado con ChatGPT 3.5. Aquí se encuentra una breve descripción del proyecto.
 
 ## Instalación
 
